@@ -58,7 +58,7 @@
       	<img src="https://user-images.githubusercontent.com/75939390/231066207-08fc4410-77aa-49c2-9574-3c1361ee0e98.jpg" width="300"/>
     </td>
     <td>
-      	<img src="https://user-images.githubusercontent.com/75939390/231066198-dfb4e4ce-6bc5-46bc-a3c2-7fc48326d5ff.jpg" width="300"/>
+	<img src="https://user-images.githubusercontent.com/75939390/231167927-d45d113d-e530-4f31-ac90-e4e0a611124a.JPG" width="300"/>
     </td>
   </tr>
 </table>
